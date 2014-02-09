@@ -1,0 +1,4 @@
+name: BrickBreaker
+description: A simple BrickBreaker game in Dart
+dependencies:
+  browser: any
